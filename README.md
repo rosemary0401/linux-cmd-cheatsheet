@@ -12,5 +12,5 @@ git push
 
 * change directory
 ```
-cp
+cd
 ```
