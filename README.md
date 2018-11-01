@@ -10,7 +10,7 @@ git push
 ```
 ## Shell script
 
-* change folder
+* change directory
 ```
 cp
 ```
