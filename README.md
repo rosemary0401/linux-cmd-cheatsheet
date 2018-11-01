@@ -27,6 +27,5 @@ cd
 ls
 ```
 ## review how to use
-```
 * https://backlog.com/git-tutorial/tw/intro/intro1_1.html
-```
+
