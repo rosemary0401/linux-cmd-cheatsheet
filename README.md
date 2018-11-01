@@ -26,6 +26,22 @@ cd
 ```
 ls
 ```
+* show the name of the present/current working directory 
+```
+pwd
+```
+* back to the previous directory
+```
+cd ..
+```
+* create new directories in the current working directory
+```
+mkdir folder name
+```
+* move or rename files
+```
+mv the filename you want to change the folder name you want to move into
+
 ## Review how to use
 * https://backlog.com/git-tutorial/tw/intro/intro1_1.html
 
