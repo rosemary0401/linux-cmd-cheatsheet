@@ -14,3 +14,7 @@ git push
 ```
 cd
 ```
+* show all files in a directory
+```
+ls
+```
