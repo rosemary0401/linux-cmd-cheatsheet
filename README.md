@@ -12,6 +12,9 @@ git diff
 * Change content locally and push
 ```
 git add .
+```
+* git add file name
+```
 git commit -m "the comments"
 git push
 ```
