@@ -14,7 +14,8 @@ git status
 git diff
 ```
 * Change content locally and push
-* git add file name
+* git add file name for each file 
+* git add . for all modified files
 * to add new changes to be committed
 ```
 git add .
