@@ -29,7 +29,10 @@ git commit -m "the comments"
 ```
 git push
 ```
-
+* pull from github for updating files
+```
+git pull
+```
 ## Shell script
 
 * change directory
