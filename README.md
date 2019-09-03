@@ -1,6 +1,10 @@
 # linux-cmd-cheatsheet
 
 ## Git command
+* copy the repository from github，use the project http
+```
+git clone github clone http
+```
 * Show the working tree status
 ```
 git status
@@ -10,16 +14,17 @@ git status
 git diff
 ```
 * Change content locally and push
+* git add file name
+* to add new changes to be committed
 ```
 git add .
 ```
-* git add file name
-to add new changes to be committed
+* -m means message
+* write message between " "
 ```
 git commit -m "the comments"
 ```
-* -m means message
-* write message between " "
+* push to github
 ```
 git push
 ```
