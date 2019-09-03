@@ -18,7 +18,7 @@ to add new changes to be committed
 ```
 git commit -m "the comments"
 ```
-*-m means message
+* -m means message
 * write message between " "
 ```
 git push
