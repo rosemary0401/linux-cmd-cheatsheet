@@ -14,6 +14,7 @@ git diff
 git add .
 ```
 * git add file name
+to add new changes to be committed
 ```
 git commit -m "the comments"
 git push
