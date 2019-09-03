@@ -33,6 +33,10 @@ git push
 ```
 git pull
 ```
+* show every branch name in this project
+```
+git branch
+```
 ## Shell script
 
 * change directory
