@@ -34,8 +34,13 @@ git push
 git pull
 ```
 * show every branch name in this project
+* add a new branch
 ```
-git branch
+git branch branch_name
+```
+* change to another branch
+```
+git checkout branch_name
 ```
 ## Shell script
 
