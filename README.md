@@ -42,6 +42,18 @@ git branch branch_name
 ```
 git checkout branch_name
 ```
+* remove local branch before pushing to github
+```
+git branch -D branch_name
+```
+* merge master and another branch
+```
+git merge branch_name
+```
+* another way to push
+```
+git push origin branch_name
+```
 ## Shell script
 
 * change directory
