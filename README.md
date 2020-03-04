@@ -1,7 +1,7 @@
 # linux-cmd-cheatsheet
 
 ## Git command
-* copy the repository from github，use the project http
+* copy the repository from github, use the project http
 ```
 git clone github clone http
 ```
