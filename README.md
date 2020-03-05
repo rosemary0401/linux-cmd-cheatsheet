@@ -3,7 +3,7 @@
 ## Git command
 * copy the repository from github, use the project http
 ```
-git clone github clone http
+git clone https://github.com/rosemary0401/mywork.git
 ```
 * Show the working tree status
 ```
