@@ -60,9 +60,13 @@ touch READE.md
 ```
 ## Shell script
 
-* change directory
+* change to the next directory
 ```
-cd
+cd filename
+```
+* back to the previous directory
+```
+cd ..
 ```
 * show all files in a directory
 ```
@@ -71,10 +75,6 @@ ls
 * show the name of the present/current working directory 
 ```
 pwd
-```
-* back to the previous directory
-```
-cd ..
 ```
 * create new directories in the current working directory
 ```
