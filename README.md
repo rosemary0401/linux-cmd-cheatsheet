@@ -58,7 +58,7 @@ git push origin branch_name
 ```
 touch READE.md
 ```
-# Shell script
+## Shell script
 
 * change to the next directory
 ```
@@ -88,6 +88,6 @@ mv the filename you want to change the folder name you want to move into
 ```
 :wq
 ```
-# Review how to use
+## Review how to use
 * https://backlog.com/git-tutorial/tw/intro/intro1_1.html
 
