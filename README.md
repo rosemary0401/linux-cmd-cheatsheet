@@ -56,7 +56,7 @@ git push origin branch_name
 ```
 * create a new README.md
 ```
-touch READE.md
+touch README.md
 ```
 ## Shell script
 
